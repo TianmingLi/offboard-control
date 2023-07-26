@@ -2,9 +2,7 @@
 
 PX4 Offboard Control Example by Using MAVROS and ROS2.
 
-<video width="320" height="240" controls>
-  <source src="doc/offboard-demo.mp4" type="video/mp4">
-</video>
+[demo video](doc/offboard-demo.mp4)
 
 # Install ROS2
 
