@@ -70,3 +70,4 @@ make px4_sitl gazebo
 ![manual input](doc/joystick_virtual_joystick_enable.png)
 
 # Reference
+[PX4 Offboard Mode](https://docs.px4.io/main/en/flight_modes/offboard.html)
