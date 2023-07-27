@@ -4,6 +4,8 @@ PX4 Offboard Control Example by Using MAVROS and ROS2.
 
 [demo video](doc/offboard-demo.mp4)
 
+ <img src="doc/rosgraph.png" height="100">
+
 # Install ROS2
 
 ```bash
