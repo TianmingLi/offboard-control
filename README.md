@@ -61,8 +61,18 @@ make px4_sitl gazebo
 
 # Launching on hardware(Jetson NX)
 
-```bash
+![JETSON-FC](https://github.com/TianmingLi/offboard-control/assets/5005440/6d262265-988f-4394-ab43-b5eeccded96f)
 
+On flight controller
+
+```bash
+mavlink start -d /dev/ttyS3 -b 57600
+```
+
+On Jetson computer 
+
+```bash
+ros2 launch mavros px4.launch fcu_url:="/dev/ttyTHS0:57600"
 ```
 
 # Trouble shooting
